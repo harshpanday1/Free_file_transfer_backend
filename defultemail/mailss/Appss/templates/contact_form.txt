@@ -1,0 +1,30 @@
+NAME:
+<br>{{ name }}
+<br><br>
+
+
+FROM_EMAIL:
+<br>{{ from_email }}
+
+
+{% comment %} EMAIL:
+<br>{{ email }} {% endcomment %}
+
+<br><br>
+
+SUBJECT:
+<br>{{ subject }}
+
+<br><br>
+
+
+MESSAGE:
+<br>{{ message }}
+
+<br><br>
+
+
+{% comment %} File_Upload:
+<br>{{ file }}  {% endcomment %}
+
+<br><br>
